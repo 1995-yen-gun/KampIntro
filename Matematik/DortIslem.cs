@@ -19,6 +19,7 @@ namespace Matematik
         { 
             int çıkarma=sayi1 - sayi2;
             Console.WriteLine("Sonuç:" + çıkarma);
+            Console.WriteLine("Hello Word");
         }
             
     }
